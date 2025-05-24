@@ -6,9 +6,9 @@ My name is Moises Anibal. I'm a self-taught web developer and software engineer 
 
 | Language   | Experience | Frameworks |
 |------------|------------|------------|
-| Go         | 7 months   | N/A        |
 | Python     | 2 years    | Django     |
 | Javascript | 2 years    | React      |
+| Go         | 7 months   | N/A        |
 | Lua        | 1 year     | N/A        |
 | Bash       | 3 months   | N/A        |
 
